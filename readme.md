@@ -14,3 +14,5 @@
 
 > Some very wise stuff
 > and very important
+### image
+![stewie](/img/stewie.jpg)
