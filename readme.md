@@ -1,4 +1,4 @@
 # Header!
-** some string **
+**some string**
 
 *cursive*
