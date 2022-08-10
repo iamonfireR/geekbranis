@@ -8,8 +8,12 @@
 
 ## git log
 
+<<<<<<< HEAD
 ## git branch 
 
 ## git branch (name)
 
 ## git checkout (branch name)
+=======
+## ihategit
+>>>>>>> secondbranch
