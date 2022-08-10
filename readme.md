@@ -21,4 +21,10 @@
 ## HEADER
 ### Header
 ##### Header
+<<<<<<< HEAD
 ###### Headee
+=======
+###### Headee
+
+> Third branch some important stuff
+>>>>>>> thirdbranch
