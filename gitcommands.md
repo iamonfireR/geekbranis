@@ -7,3 +7,5 @@
 ## git commit -m
 
 ## git log
+
+## ihategit
